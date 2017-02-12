@@ -19,14 +19,14 @@ h2 {
   border-top: 0px;
   text-align: center;
 }
-content {
+.content {
   display: block;
   position: relative;
   background-color: grey; 
   border: solid black;
   margin: 10px;
 }
-content > div {
+.content > div {
   margin-top: 30px;
   margin-left: 10px;
   margin-right: 10px;
