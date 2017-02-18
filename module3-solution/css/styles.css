@@ -42,12 +42,11 @@ h2 {
   font-weight: bold;
 }
 
-.content {
+div.content {
   display: block;
   position: relative;
-  background-color: #277c3a; 
-  border: 1px solid black;
-  margin: 10px;
+  background-color: #277c3a;
+  padding: 10px;
   color: black;
 }
 h3 {
@@ -68,7 +67,7 @@ h3 {
   text-align: center;
   font-weight: bold;
 }
-#back-to-to {
+#back-to-top {
   font-weight: bold;
   color: black;
 }
